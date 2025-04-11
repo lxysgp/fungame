@@ -1,7 +1,7 @@
 {
-  "name": "ip-recorder",
+  "name": "ip-game",
   "version": "1.0.0",
-  "description": "A simple IP address recorder that logs IPs and timestamps",
+  "description": "A game-style IP logger with name input",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
